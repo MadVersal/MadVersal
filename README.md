@@ -11,7 +11,9 @@ I'm an active developer who's always looking to learn, make friends, and have a 
 
 <h2 align="center">Contact</h2>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadVersal&layout=compact&hide_border=true&title_color=2c98ff&text_color=ffffff&icon_color=2c98ff&bg_color=0d1117)](#)
+
+<h2 align="center">Contact</h2>
+
 > - Discord: oldversal
 > - madversalz@gmail.com
-
- 
