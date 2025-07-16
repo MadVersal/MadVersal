@@ -4,7 +4,7 @@ I'm an active developer who's always looking to learn, make friends, and have a 
 <h2 align="center">LANG and Tools</h2> 
 <p align="center">
     <a href="#">
-      <img width="250px" src="https://skillicons.dev/icons?i=php,py,html,css,github&perline=10" />
+      <img width="350px" src="https://skillicons.dev/icons?i=php,py,html,css,github,vscode,pycharm,phpstorm&perline=10"/>
     </a>
 </p>
 <br />
