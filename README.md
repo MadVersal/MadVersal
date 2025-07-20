@@ -17,3 +17,5 @@ Hello, I introduce myself, I am Zuriel V. Alejandro, better known as OldVersal o
 
 > - Discord: oldversal
 > - madversalz@gmail.com
+
+ 
