@@ -9,9 +9,11 @@ Hello, I introduce myself, I am Zuriel V. Alejandro, better known as OldVersal o
 </p>
 <br />
 
-<h2 align="center">Most Used LANGs</h2>
+<h2 align="center">My Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadVersal&layout=compact&hide_border=true&title_color=2c98ff&text_color=ffffff&icon_color=2c98ff&bg_color=0d1117)](#)
+![MadVersal's Stats](https://github-readme-stats.vercel.app/api?username=MadVersal&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![MadVersal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadVersal&theme=dark&hide_border=false)
+![MadVersal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadVersal&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 <h2 align="center">Contact</h2>
 
