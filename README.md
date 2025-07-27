@@ -4,7 +4,8 @@ Hello, I introduce myself, I am Zuriel V. Alejandro, better known as OldVersal o
 <h2 align="center">LANG and Tools</h2> 
 <p align="center">
     <a href="#">
-      <img width="350px" src="https://skillicons.dev/icons?i=php,py,html,css,github,vscode,pycharm,phpstorm&perline=10"/>
+      <img width="350px" src="https://skillicons.dev/icons?i=github,git,laravel,vscode,pycharm,phpstorm&perline=10"/>
+        <img width="350px" src="https://skillicons.dev/icons?i=php,py,html,css,js,nodejs&perline=10"/>
     </a>
 </p>
 <br />
