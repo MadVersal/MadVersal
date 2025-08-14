@@ -1,6 +1,12 @@
 <h2 align="center">About Me</h2>
 Hello, I introduce myself, I am Zuriel V. Alejandro, better known as OldVersal or MadVersal, I am a developer focused on things like PocketMine-MP Plugins, Discord Bots and Web Pages, I am always looking to learn something new, make new friends, I seek to have a very beautiful and prosperous life, I have a lot of motivation and discipline. You can contact me via: discord ( oldversal ).
 
+<h2 align="center">Projects</h2>
+I have several very interesting and modern projects, below I will show you some examples:
+- My PMMP/Nukkit Community [https://dsc.gg/valkdevs] 🤗
+- My Bot in discord.py [https://github.com/MadVersal/PythonBot] 🐍
+- One Of My PMMP Plugins [https://github.com/MadVersal/SimpleReports] 👜
+
 <h2 align="center">LANG and Tools</h2> 
 <p align="center">
     <a href="#">
