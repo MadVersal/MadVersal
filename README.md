@@ -12,7 +12,7 @@ I have several very interesting and modern projects, below I will show you some 
 <h2 align="center">LANG and Tools</h2> 
 <p align="center">
     <a href="#">
-      <img width="350px" src="https://skillicons.dev/icons?i=github,git,laravel,vscode,pycharm,phpstorm&perline=10"/>
+      <img width="350px" src="https://skillicons.dev/icons?i=github,git,laravel,vscode,pycharm,phpstorm,sqlite,mysql&perline=10"/>
         <img width="350px" src="https://skillicons.dev/icons?i=php,py,html,css,js,git,maven&perline=10"/>
     </a>
 </p>
